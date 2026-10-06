@@ -1,0 +1,23 @@
+# --- Core Numerical & Image Processing ---
+numpy>=1.24.0
+pillow>=9.5.0
+matplotlib>=3.7.0
+scikit-image>=0.20.0
+
+# --- OpenCV ---
+opencv-python>=4.8.0.76
+opencv-contrib-python>=4.8.0.76
+
+# --- Deep Learning Frameworks ---
+torch>=2.0.0
+torchvision>=0.15.0
+
+# --- Vision Utilities, OCR & Biometrics ---
+mediapipe>=0.10.0
+pytesseract>=0.3.10
+easyocr>=1.7.0
+transformers>=4.30.0
+
+# --- CLI & Developer Quality Tools ---
+tqdm>=4.65.0
+pytest>=7.3.0

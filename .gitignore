@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Output directories & generated test images
+*.png
+*.jpg
+labs/**/output/
