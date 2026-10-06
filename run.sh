@@ -8,10 +8,14 @@ SHOW_HELP() {
     echo ""
     echo "Available Targets:"
     echo "  ch1       Execute Chapter 01 (Image Basics)"
+    echo "  ch2       Execute Chapter 02 (OpenCV Essentials)"
+    echo "  ch3       Execute Chapter 03 (Image Processing)"
     echo "  lab-img   Execute Image Processing Lab"
     echo ""
     echo "Examples:"
     echo "  ./run.sh ch1"
+    echo "  ./run.sh ch2"
+    echo "  ./run.sh ch3"
     echo "  ./run.sh lab-img --demo"
 }
 

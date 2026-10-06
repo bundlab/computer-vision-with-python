@@ -10,6 +10,8 @@ import subprocess
 
 MODULE_MAP = {
     "ch1": "chapters/01-images/image_basics.py",
+    "ch2": "chapters/02-opencv/opencv_essentials.py",
+    "ch3": "chapters/03-image-processing/core_processing.py",
     "lab-img": "labs/image-processing/enhance_pipeline.py",
 }
 
